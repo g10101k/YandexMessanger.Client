@@ -1,2 +1,2 @@
-# Csharp yandex messanger client for bot
+# Yandex Messenger Bot Client
 
